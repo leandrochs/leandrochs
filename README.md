@@ -65,6 +65,8 @@ Atualmente estou no final do curso de Desenvolvimento Full Stack da [Trybe](http
 
 Alguns dos projetos desenvolvidos até o momento se encontram aqui no [GitHub](https://github.com/leandrochs?tab=repositories). E também é possível encontrá-los [neste portfólio](https://leandrochs.github.io/#/).
 
+</br>
+
 _Um abraço,_
 
 **Leandro.**
