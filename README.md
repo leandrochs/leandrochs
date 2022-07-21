@@ -17,6 +17,10 @@ Meu aprendizado tecnológico se deu nesta ordem:
 - Back End
 - Ciência da Computação
 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrochs&layout=compact&langs_count=16&theme=chartreuse-dark&locale=pt-br)
+
 </br>
 
 Atualmente estou no final do curso de Desenvolvimento Full Stack da [Trybe](https://www.betrybe.com/) e disposto a iniciar como colaborador back-end, front-end ou full-stack.
@@ -28,6 +32,12 @@ _Um abraço,_
 
 ---
 ### Contatos
+<br/>
+
+- Email: leandrochagask@gmail.com
+
+- Telefone: (11) 95639-1206
+
 <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Leandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandrosi)](https://www.linkedin.com/in/leandrosi) [![Gmail Badge](https://img.shields.io/badge/-@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leandrochagask@gmail.com)](mailto:leandrochagask@gmail.com) [![Link WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511956391206&text=Ol%C3%A1%2C%20Leandro!)
