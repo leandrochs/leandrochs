@@ -2,11 +2,7 @@
 
 ---
 
-<span style="font-weight: bold; font-size: 1.7rem; line-height: 1.5rem"> Olá</span><span style="font-weight: bold; font-size: 2rem">`<Dev/>`! 👋 </span><h3 style="font-weight: bold; line-height: 1.4rem; padding-bottom: 1.4rem">Me chamo Leandro</br>
-Sou desenvolvedor Full Stack</h3>
-
-<h3> Olá <Dev/>! 👋 </br>Me chamo Leandro</br>Sou desenvolvedor Full Stack</h3>
-
+<h3> Olá &#60Dev/>! 👋 </br> Me chamo Leandro</br>Sou desenvolvedor Full Stack</h3>
 
 ---
 
