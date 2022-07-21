@@ -8,7 +8,7 @@
 
 ### Apresentação
 
-Sou um desenvolvedor web que adora novas descobertas, o que significa ser extremamente curioso e naturalmente dedicado ao aprendizado constante. Sou apaixonado por tecnologia, mas também me dedico a compreender outras áreas de conhecimento, o que permite ter percepções diferenciadas sobre programação e suas diferentes aplicações, bem como seu papel dentro de um contexto maior de negócios.
+Sou um desenvolvedor que adora novas descobertas, o que significa ser extremamente curioso e naturalmente dedicado ao aprendizado constante. Sou apaixonado por tecnologia, mas também me dedico a compreender outras áreas de conhecimento, o que permite ter percepções diferenciadas sobre programação e suas diferentes aplicações, bem como seu papel dentro de um contexto maior de negócios.
 
 Meu aprendizado tecnológico se deu nesta ordem:
 
@@ -66,6 +66,7 @@ Atualmente estou no final do curso de Desenvolvimento Full Stack da [Trybe](http
 Alguns dos projetos desenvolvidos até o momento se encontram aqui no [GitHub](https://github.com/leandrochs?tab=repositories). E também é possível encontrá-los [neste portfólio](https://leandrochs.github.io/#/).
 
 _Um abraço,_
+
 **Leandro.**
 
 ---
