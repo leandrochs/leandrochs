@@ -8,18 +8,18 @@
 
 ### Apresentação
 
-Sou um desenvolvedor web que adora novas descobertas, o que significa ser extremamente curioso e naturalmente dedicado ao aprendizado constante. Sou apaixonado por tecnologia, mas também me dedico à aprendizados de outras áreas de conhecimento, o que me permite ter percepções diferenciadas sobre programação e suas diferentes aplicações, bem como seu papel dentro de um contexto maior de negócios.
+Sou um desenvolvedor web que adora novas descobertas, o que significa ser extremamente curioso e naturalmente dedicado ao aprendizado constante. Sou apaixonado por tecnologia, mas também me dedico a compreender outras áreas de conhecimento, o que permite ter percepções diferenciadas sobre programação e suas diferentes aplicações, bem como seu papel dentro de um contexto maior de negócios.
 
 Meu aprendizado tecnológico se deu nesta ordem:
 
 - Fundamentos do Desenvolvimento Web
 - Front End
 - Back End
-- Ciências da Computação
+- Ciência da Computação
 
 </br>
 
-Atualmente estou no final do curso de Desenvolvimento Full Stack da [Trybe](https://www.betrybe.com/) e estou aberto para iniciar como colaborador back-end, front-end ou full-stack.
+Atualmente estou no final do curso de Desenvolvimento Full Stack da [Trybe](https://www.betrybe.com/) e disposto a iniciar como colaborador back-end, front-end ou full-stack.
 
 Alguns dos projetos desenvolvidos até o momento se encontram aqui no [GitHub](https://github.com/leandrochs?tab=repositories). Ou para uma interface mais amigável também é possível encontrá-los [neste portfólio](https://leandrochs.github.io/#/).
 
