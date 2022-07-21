@@ -75,8 +75,6 @@ _Um abraço,_
 
 ### Contatos
 
-<br/>
-
 - Email: leandrochagask@gmail.com
 
 - Telefone: (11) 95639-1206
