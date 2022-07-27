@@ -42,7 +42,7 @@ Meu aprendizado tecnológico se deu nesta ordem:
   <img align="center" alt="MYSQL" title="MYSQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="MONGODB" title="MONGODB" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="NODE" title="NODE" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="EXPRESS" title="EXPRESS" height="60" width="80" style="background-color: #aca6a533" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
+  <img align="center" alt="EXPRESS" title="EXPRESS" height="60" width="80" style="background-color: #c0c1c291" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
   <img align="center" alt="HEROKU" title="HEROKU" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg">
 </div>
 
