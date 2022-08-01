@@ -66,7 +66,7 @@ Meu aprendizado tecnológico se deu nesta ordem:
 
 </br>
 
-Atualmente estou no final do curso de Desenvolvimento Full Stack da [Trybe](https://www.betrybe.com/) e disposto a iniciar como colaborador back-end, front-end ou full-stack.
+Atualmente estou no final do curso de Desenvolvimento Full Stack da [Trybe](https://www.betrybe.com/formacao-desenvolvimento-web) e disposto a iniciar como colaborador back-end, front-end ou full-stack.
 
 Alguns dos projetos desenvolvidos até o momento se encontram aqui no [GitHub](https://github.com/leandrochs?tab=repositories). E também é possível encontrá-los [neste portfólio](https://leandrochs.github.io/#/).
 
